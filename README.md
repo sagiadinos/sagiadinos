@@ -1,9 +1,14 @@
 # Hi, I am Niko Sagiadinos
 - Full Stack Developer
-- Digital Signage Developer @ SmilControl
+- Digital Signage Developer
 - Linux geek 
 - Hobby Pianist 
 - DJ
+
+## My Projects
+
+- Company:  [SmilControl](http://smil-control.com)
+- Open Source: [Garlic Digital Signage Apps](https://garlic-player.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagiadinos&show_icons=true&hide=contribs&&rank_icon=percentile)
 
@@ -16,7 +21,7 @@
 
 ## Tools
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Slim Badge](https://img.shields.io/badge/Slim-74BDBE?style=for-the-badge&logo=slim&logoColor=white)
+![Slim Badge](https://img.shields.io/badge/Slim-74BDBE?style=for-the-badge&logo=SLIM&logoColor=white)
 
 ## Supported Platforms
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
