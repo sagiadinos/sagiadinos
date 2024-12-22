@@ -1,6 +1,6 @@
 # Hi, I am Niko Sagiadinos
 - Full Stack Developer
-- Digital Signage Developer
+- Specialized on Digital Signage Software
 - Linux geek 
 - Hobby Pianist 
 - DJ
