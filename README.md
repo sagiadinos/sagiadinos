@@ -12,6 +12,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagiadinos&show_icons=true&hide=contribs&&rank_icon=percentile)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagiadinos)](https://github.com/sagiadinos/github-readme-stats)
+
 ## My Languages
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
