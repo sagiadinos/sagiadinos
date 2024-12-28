@@ -2,8 +2,7 @@
 - Full Stack Developer
 - Specialized on Digital Signage Software
 - Linux geek 
-- Hobby Pianist 
-- DJ
+- Hobby Pianist, DJ, Traveller
 
 ## My Projects
 
