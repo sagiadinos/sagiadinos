@@ -16,10 +16,6 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pascal Badge](https://img.shields.io/badge/Pascal-0095D5?style=for-the-badge&logoColor=white)
 
-## Tools
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Slim Badge](https://img.shields.io/badge/Slim-74BDBE?style=for-the-badge&logo=SLIM&logoColor=white)
-
 ## Supported Platforms
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
