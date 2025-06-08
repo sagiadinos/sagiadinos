@@ -7,7 +7,7 @@
 ## My Projects
 
 - Company:  [SmilControl](http://smil-control.com)
-- Open Source: [Garlic Digital Signage Apps](https://garlic-player.com)
+- OSS Digital Signage: [GarlicSigange Website](https://garlic-player.com) and [GarlicSignage Sourcecide](https://github.com/orgs/GarlicSignage/repositories)
 
 ## Primary Used Languages
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
