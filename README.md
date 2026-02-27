@@ -1,24 +1,37 @@
-# Hi, I am Niko Sagiadinos
-- Full Stack Developer
-- Specialized on Digital Signage Software
-- Linux geek 
-- Hobby Pianist, DJ, Traveller
+# Niko Sagiadinos
 
-## My Projects
+Digital Signage is a market dominated by overpriced, vendor-locked black boxes.
+I build the open alternative.
 
-- Company:  [SmilControl](http://smil-control.com)
-- [GarlicSignage - Open Source Digital Signage Apps](https://github.com/garlic-signage)
+## What I'm Building
 
-## Primary Used Languages
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-and more.
+**[garlic-player](https://github.com/garlic-signage/garlic-player)**: A SMIL-based media player 
+for Linux, Android and macOS. No license fees, no cloud dependency, no bullshit.
 
-## Supported Platforms
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-and this "market leader" OS. ;)
+**[garlic-hub](https://github.com/garlic-signage/garlic-hub)**: The CMS behind it. 
+Device management, content scheduling, playlist control.
+
+**[garlic-launcher](https://github.com/garlic-signage/garlic-launcher)**: Root-free Android 
+launcher to keep players locked down and maintained in the field.
+
+Together they form a complete, self-hosted digital signage stack — from content creation 
+to playback. AGPL licensed.
+
+→ [garlic-signage.com](https://garlic-signage.com) for the full picture.
+
+## Who This Is For
+
+- Integrators tired of paying per-device fees to SaaS platforms
+- Companies that need on-premise solutions with full control over their data
+- Developers who want to extend or embed a standards-compliant SMIL player
+
+## Stack
+
+C++ · PHP · Java · JavaScript · QML · Linux · Android · macOS · Windows
+
+## Get Involved
+
+Found a bug? Open an issue.  
+Want to contribute? PRs are welcome, especially for platform support and SMIL features.  
+Need custom development or integration support? → [smil-control.com](https://smil-control.com)
 
