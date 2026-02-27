@@ -32,7 +32,7 @@ to playback. AGPL licensed.
 
 ## Stack
 
-C++ · PHP · Java · JavaScript · QML · Linux · Android · macOS · Windows
+C++ · PHP · Java · JavaScript · Qt · Linux · Android · macOS · Windows
 
 ## Get Involved
 
