@@ -6,7 +6,7 @@ I build the open alternative.
 ## How it started
 In 2011 I built a commercial digital signage CMS to manage hundreds of IAdea players for a client because there was no affordable, SMIL-compatible solution that fit the job. Over the years, resellers started building their own proprietary players instead of paying for certified hardware. Most failed. So in 2017 I built an open-source media player that anyone could use and contribute to. The launcher, proxy, and hub followed.
 
-The goal: a complete, open digital signage ecosystem using open standards like SMIL.
+The goal: a complete, open digital signage ecosystem using open standards like [SMIL](https://garlic-signage.com/resources/digital-signage-smil/).
 
 ## What I'm Building
 
