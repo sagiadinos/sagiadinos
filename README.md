@@ -10,9 +10,9 @@ The goal: a complete, open digital signage ecosystem using open standards like [
 
 ## What I'm Building
 **[garlic-player](https://github.com/garlic-signage/garlic-player)**: A SMIL-based media player 
-for Linux, Android and macOS. No license fees, no cloud dependency.
+for Linux, Android, Windows, and macOS. No license fees, no cloud dependency.
 
-**[garlic-hub](https://github.com/garlic-signage/garlic-hub)**: The CMS behind it. 
+**[garlic-hub](https://github.com/garlic-signage/garlic-hub)**: The CMS behind it (run in Docker). 
 Device management, content scheduling, playlist control.
 
 **[garlic-launcher](https://github.com/garlic-signage/garlic-launcher)**: Root-free Android 
