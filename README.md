@@ -41,4 +41,8 @@ Found a bug? Open an issue.
 Want to contribute? PRs are welcome, especially for platform support and SMIL features.  
 Need custom development or integration support? → [smil-control.com](https://smil-control.com)
 
+## Find Me
+[sagiadinos.com](https://sagiadinos.com) → the person behind the code
+
 Currently somewhere with decent WiFi. Life's too short to spend it behind a desk.
+
