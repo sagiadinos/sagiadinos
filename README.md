@@ -20,8 +20,9 @@ launcher to keep players locked down and maintained in the field.
 
 **[garlic-proxy](https://github.com/garlic-signage/garlic-proxy)**: A proxy for restricted network environments
 
-Together they form a complete, self-hosted digital signage stack — from content creation 
-to playback. AGPL licensed.
+**[garlic-widgets](https://github.com/garlic-signage/garlic-widgets)**: A widget library based on W3C Packaged Web. HTML5 apps that run inside SMIL regions for data-driven content. IDE plugins for [JetBrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) and [VS Code](https://github.com/garlic-signage/garlic-widgets-vscode) are available.
+
+Together they form a complete, self-hosted digital signage stack. AGPL and MIT licensed.
 
 → [garlic-signage.com](https://garlic-signage.com) for the full picture.
 
@@ -33,7 +34,7 @@ to playback. AGPL licensed.
 One person. Ten screens. No budget for SaaS nonsense.
 
 ## Stack
-C++ · PHP · Java · JavaScript · Qt · Linux · Android · macOS · Windows
+C++ · PHP · Java · JavaScript · Qt · Linux · Android · macOS · Windows · JetBrains · VS Code
 
 ## Get Involved
 
