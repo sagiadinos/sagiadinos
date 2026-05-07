@@ -4,23 +4,25 @@ Digital signage is dominated by overpriced, vendor-locked black boxes.
 I build the open alternative.
 
 ## How it started
-In 2011 I built a commercial digital signage CMS to manage hundreds of IAdea players for a client because there was no affordable, SMIL-compatible solution that fit the job. Over the years, resellers started building their own proprietary players instead of paying for certified hardware. Most failed. So in 2017 I built an open-source media player that anyone could use and contribute to. The launcher, proxy, and hub followed.
+In 2011 I built a commercial digital signage CMS to manage hundreds of IAdea players for a client because there was no affordable, SMIL-compatible solution that fit the job. Over the years, resellers started building their own proprietary players instead of paying for certified hardware. Most failed. So in December 2015 I start to built an open-source media player that anyone could use and contribute to. The launcher, proxy, and hub followed.
 
-The goal: a complete, open digital signage ecosystem using open standards like [SMIL](https://garlic-signage.com/resources/digital-signage-smil/).
+The goal: a complete, open digital signage ecosystem using open standards like [SMIL](https://garlic-signage.com/resources/digital-signage-smil/). 
 
 ## What I'm Building
 **[garlic-player](https://github.com/garlic-signage/garlic-player)**: A SMIL-based media player 
 for Linux, Android, Windows, and macOS. No license fees, no cloud dependency.
 
 **[garlic-hub](https://github.com/garlic-signage/garlic-hub)**: The CMS behind it (run in Docker). 
-Device management, content scheduling, playlist control.
+Content scheduling, playlist control and a graphic template editor.
 
 **[garlic-launcher](https://github.com/garlic-signage/garlic-launcher)**: Root-free Android 
 launcher to keep players locked down and maintained in the field.
 
 **[garlic-proxy](https://github.com/garlic-signage/garlic-proxy)**: A proxy for restricted network environments
 
-**[garlic-widgets](https://github.com/garlic-signage/garlic-widgets)**: A widget library based on W3C Packaged Web. HTML5 apps that run inside SMIL regions for data-driven content. IDE plugins for [JetBrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) and [VS Code](https://github.com/garlic-signage/garlic-widgets-vscode) are available.
+**[garlic-widgets](https://github.com/garlic-signage/garlic-widgets)**: A widget library based on W3C Packaged Web. HTML5 apps that run inside SMIL regions for data-driven content.
+
+IDE plugins for [JetBrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) and [VS Code](https://github.com/garlic-signage/garlic-widgets-vscode) are available.
 
 Together they form a complete, self-hosted digital signage stack. AGPL and MIT licensed.
 
@@ -34,7 +36,7 @@ Together they form a complete, self-hosted digital signage stack. AGPL and MIT l
 One person. Ten screens. No budget for SaaS nonsense.
 
 ## Stack
-C++ · PHP · Java · JavaScript · Qt · Linux · Android · macOS · Windows · JetBrains · VS Code
+C++ · PHP · Java · JavaScript · Qt · Linux · Android · macOS · Windows
 
 ## Get Involved
 
